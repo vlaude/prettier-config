@@ -1,0 +1,12 @@
+{
+  "name": "@vlaude/prettier-config",
+  "version": "1.0.0",
+  "description": "vlaude Prettier Config",
+  "main": "index.json",
+  "license": "MIT",
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "repository": "git@github.com:vlaude/prettier-config.git"
+}
