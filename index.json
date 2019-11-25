@@ -7,5 +7,6 @@
   "singleQuote": true,
   "semi": true,
   "htmlWhitespaceSensitivity": "css",
-  "endOfLine": "auto"
+  "endOfLine": "auto",
+  "printWidth": 120
 }
